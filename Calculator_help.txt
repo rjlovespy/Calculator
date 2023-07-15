@@ -1,0 +1,8 @@
+1. Click on Category present on the menubar 
+to switch between arithmetic and scientific 
+calculators.
+2. Before applying trigonometric function, 
+behold at the taskbar to know whether 
+angles are in degrees or in radians.
+3. To know about a certain operation, 
+behold at the taskbar.

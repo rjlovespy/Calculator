@@ -1,0 +1,18 @@
+This application software named Calculator [Version 
+0.1] wasn't developed in one night. It took relentless 
+effort, endurance, and firm belief of the single 
+application software developer named Mr. Rishikesh 
+Jha - a Physics graduate of the University of Mumbai 
+via St. Xavier's College.
+Having a Physics background, he never had any degree 
+in the field of application software development but he 
+was able to develop this application software because 
+he had that one thing which is not seen even in degree 
+holders today-self belief. He learnt Python prgramming, 
+data analysis and animations using Python libraries like 
+matplotlib, scipy, numpy, pandas side by side when he 
+was a Physics undergraduate.
+After completing graduation, he found his passion 
+in the application software development. He learnt 
+Tkinter in one month and then finally developed 
+this software within a span of 5 days.
